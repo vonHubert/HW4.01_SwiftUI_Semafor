@@ -11,6 +11,7 @@
 		32E4A76F296F3EB1005B934D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E4A76E296F3EB1005B934D /* ContentView.swift */; };
 		32E4A771296F3EB3005B934D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32E4A770296F3EB3005B934D /* Assets.xcassets */; };
 		32E4A774296F3EB3005B934D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32E4A773296F3EB3005B934D /* Preview Assets.xcassets */; };
+		32E4A77B296F4A0F005B934D /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32E4A77A296F4A0F005B934D /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		32E4A76E296F3EB1005B934D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		32E4A770296F3EB3005B934D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32E4A773296F3EB3005B934D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		32E4A77A296F4A0F005B934D /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				32E4A76C296F3EB1005B934D /* HW4_01_SwiftUI_SemaforApp.swift */,
 				32E4A76E296F3EB1005B934D /* ContentView.swift */,
+				32E4A77A296F4A0F005B934D /* CircleView.swift */,
 				32E4A770296F3EB3005B934D /* Assets.xcassets */,
 				32E4A772296F3EB3005B934D /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				32E4A77B296F4A0F005B934D /* CircleView.swift in Sources */,
 				32E4A76F296F3EB1005B934D /* ContentView.swift in Sources */,
 				32E4A76D296F3EB1005B934D /* HW4_01_SwiftUI_SemaforApp.swift in Sources */,
 			);
